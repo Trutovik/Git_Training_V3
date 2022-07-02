@@ -1,1 +1,2 @@
 This is sample file2
+This is a Comparison lecture for sampletestfile2.txt
